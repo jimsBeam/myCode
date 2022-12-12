@@ -1,6 +1,13 @@
 # myCode
 A test repository for a few of my applications to review ...
 
+	•	👋 Hi, I’m @jimsBeam
+	•	👀 I’m interested in macOS Swift Programming ...
+	•	🌱 I’m currently learning Swift programming ...
+	•	💞️ I’m looking to review my current application which worked with Xcode 13.4 , but has a problem with Xcode 14.1 ...
+	•	📫 How to reach me : jim.kitchen@shaw.ca
+
+
 This small application creates and illustrates the following:
 
 	1.	A calendar with a calendar imbedded within a POPOVER …
